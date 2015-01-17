@@ -20,6 +20,7 @@ gem 'mini_magick'
 gem 'puma'
 gem 'devise'
 gem 'country_select'
+gem 'pry-rails'
 
 group :test do 
   gem 'minitest-rails'
