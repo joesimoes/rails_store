@@ -21,6 +21,7 @@ gem 'puma'
 gem 'devise'
 gem 'country_select'
 gem 'pry-rails'
+gem 'devise'
 
 group :test do 
   gem 'minitest-rails'
