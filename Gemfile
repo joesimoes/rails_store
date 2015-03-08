@@ -22,6 +22,8 @@ gem 'devise'
 gem 'country_select'
 gem 'pry-rails'
 gem 'devise'
+gem 'better_errors'
+gem 'binding_of_caller'
 
 group :test do 
   gem 'minitest-rails'
